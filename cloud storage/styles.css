@@ -1,8 +1,9 @@
 body {
-    background-color: blanchedalmond;
+    background-color: turquoise;
 }
 
 h1 {
-    font-family: "Century Schoolbook L";
-    padding: 2px;
+    font-family: "Times";
+    padding: 3cm;
+    font-size: 2cm;
 }
